@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 // @ts-nocheck
 import { useEvent, useMergedState } from "rc-util";
 import useLayoutEffect from "rc-util/lib/hooks/useLayoutEffect";
